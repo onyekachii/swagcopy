@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clientSide';
+  logourl: any;
+  show1: boolean = true;
+  show2: boolean = false;
+  show3: boolean = false;
 }
